@@ -33,7 +33,3 @@ The extension checks for new chapters on followed series in the background, but 
 Content scripts inject into a live website that can update its HTML structure at any time. Any selector that worked yesterday might break tomorrow. The chapter detection logic uses multiple fallback strategies rather than depending on a single CSS class or element ID - if the primary detection method fails, it tries the next one. This made the extension meaningfully more resilient to site changes without requiring a manual update.
 
 ---
-
-## Outcome
-
-Published on the Chrome Web Store. Tracks reading progress across series, sends notifications when new chapters drop, and handles the chapter-to-chapter navigation flow automatically. All data stays local - nothing leaves the browser.
