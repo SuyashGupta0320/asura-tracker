@@ -1,6 +1,8 @@
 # Case Study: Asura Tracker – Manga Reading Companion Chrome Extension
 
 **Personal project** · Chrome Extension · React · TypeScript · Tailwind CSS
+<img width="323" height="600" alt="image" src="https://github.com/user-attachments/assets/9eb39170-08c4-41ac-9f71-81295026484d" />
+<img width="317" height="597" alt="image" src="https://github.com/user-attachments/assets/63376e43-36bc-4451-a6c2-e400c10e8862" />
 
 ---
 
